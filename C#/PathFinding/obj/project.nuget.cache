@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Joxxj37LJXcEAktCWr7+tqjwGrYy7BI687sCkzZuQGdSLGWwovbLz7UI5bNOA9cXBWt6XfUUP07e2gFZFisVhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fatim\\Desktop\\MyPractice\\C#\\SChallenge\\C#\\PathFinding\\PathFinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fatim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\fatim\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.1\\system.data.sqlite.core.1.0.113.1.nupkg.sha512"
+  ],
+  "logs": []
+}
